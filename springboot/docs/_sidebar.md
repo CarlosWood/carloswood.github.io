@@ -1,1 +1,2 @@
+* [Home](/)
 * [configuration](configuration.md)
